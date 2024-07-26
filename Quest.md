@@ -138,7 +138,9 @@
 
     - [x]  **하루에 적어도 모르는 한가지의 개념에 대해 깊숙하게 탐색해보기**
         - 주말에 여유로운 시간을 활용해서 완성하지 못한 미션 톺아보기!!
-        - [VirtualBox에서 Ubuntu 가상 환경 구축하기]([http://www.google.co.kr](https://velog.io/@jiiker_/Window-VirtualBox%EC%97%90%EC%84%9C-Ubuntu-%EA%B0%80%EC%83%81-%ED%99%98%EA%B2%BD-%EA%B5%AC%EC%B6%95%ED%95%98%EA%B8%B0)).
+          
+          👉🏻[VirtualBox에서 Ubuntu 가상 환경 구축하기](https://velog.io/@jiiker_/Window-VirtualBox%EC%97%90%EC%84%9C-Ubuntu-%EA%B0%80%EC%83%81-%ED%99%98%EA%B2%BD-%EA%B5%AC%EC%B6%95%ED%95%98%EA%B8%B0)
+        
       
 - 선정 이유
     - 건강도 챙기고!! 학습도 챙기고!! 두 마리 토끼 잡기!!
